@@ -1,6 +1,6 @@
-# Exemple d'arbre de décision en Python
+# Exemple de règles d'association
 
-Ce projet propose un pipeline ETL (Extraction, Transformation, Chargement) simple en Python. Il utilise un arbre de décision pour prédire si une livraison sera effectuée à temps, à partir de caractéristiques de commandes (type de produit, distance, saison). Les données sont simulées dans le script.
+Ce projet illustre comment identifier automatique des règles d'association en Python. Vous pouvez modifier le script pour y mettre vos propres données.
 
 ## Prérequis
 
